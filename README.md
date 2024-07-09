@@ -1,8 +1,8 @@
 # Hello world
 
-###My name is Denise
+My name is Denise, using git !![alt text](image-1.png)
 
-#####Hobbies: Tennis, Running
+Hobbies: Tennis, Running
 
-######Secret hobby: Gardening - haha
+Secret hobby: Gardening - haha
 
